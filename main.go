@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	ejercicios "github.com/odelacruz93/godesde0/Ejercicios"
+	"github.com/odelacruz93/godesde0/ejercicios"
 )
 
 func main() {
